@@ -32,41 +32,33 @@ Especializaciones:
 ## Proyectos:
 
 Octubre 2015. E-Kit. Freelance. 5 meses
--Desarrollo de dispositivo de monitorización de los datos captado mediante Arduino+Sensores.
--Puesta de servicio de Web-Server, para el almacenamiento de los datos.
+-Arduino+Sensores.
+-Almacenamiento de los datos.
 -Modelado y geneacion del OLAP, para su posterior explotación.
--Reporting. QlikView. (KPI, Dashboard).  Para la monitorización de datos y toma de decisiones.
--Análisis y generación de modelos predictivos mediante minería de datos. R-Studio.
+-Reporting.  Para la monitorización de datos y toma de decisiones.
 
 
-2015-2016. RSU de Lebrija. 9 meses. Freelance.
--Diseño, modelado e implementación de DataMart. 
--Desarrollo, Aplicación Android,  (2 meses). Lectura y envio de datos.
--.NET (VBA + C#), Desarrollo de aplicación para tratamiento de los datos captados  (ETL), 
--Reporting mediante  QlikView. (KPI, Dashboard). Monitorización. 
--Visualización de datos geo-localizados mediante la extensión Qlik-Map.  
+2015-2016. RSU-Leb.
+-DataMart. 
+-Aplicación Android, 
+-Tratamiento de los datos captados  (ETL), 
+-Reporting. 
+-Visualización de datos geo-localizados.  
 
-2014 . Especialista GIS, Lebrija. 5 meses. Freelance
--Desarrollo de aplicación GIS .VBA, 
--Procesos de Análisis GIS. Generación de vistas SQL. Análisis de datos.
+2014 . Project GIS, P_L.
+-GIS .VBA, 
 -Reporting, análisis y generación de Informes Geo-estadísticos.
 -Generación de la información geográfica-cartográfica necesaria.
 
-2014 . Proyecto Java2EE. Seguimiento de Incidencias +GIS. Me2u Project. 2 meses
--Desarrollo de aplicación web corporativa, en la que se permite la introducción de datos en una base de datos, su gestión y visualización de los mismos mediante Google Maps. 
--Cuadro de Mando y reporting. Mediante graficas con Primefaces.
--Tecnologías: Postgresql.Java2EE.MVC.jsf facelet.Primefaces- Gmap.
+2014 . Proyecto Java2EE. SegIncGeo.
+-Desarrollo de aplicación web corporativa. 
+-Cuadro de Mando y reporting. 
 
-2014 . Aplicación para Móvil. Toma de datos Geolocalizadas. Me2u Project. 2meses
--Desarrollo de aplicación Android en la que mediante el sensor GPS y las lecturas periódicas se hace un seguimiento de la ruta, en la que además se pueden guardar comentarios y fotografías asociados a la posición. 
+2014 .App Android
+-Tracking, GPS, Fotos y comentarios. 
 
-2012 . Indicadores Sociales. (2012). 6 meses.
--Especialista GIS. Administrador y Gestión de Bases de datos. Analista de datos. Generación y explotación de bases de datos geográfica y realización de consultas,  geo-procesos y análisis estadísticos. 
+2012 . Ind-Sociales. 
+-GIS.  
 -Desarrollo de indicadores KPI. Realización de informes gráficos.
 
-2012-2013. Elaboración de GeoEPSA, 14 meses. Freelance
--GIS corporativo y su conexión a Datawarehouse. IBM Cognos
--Realización de reporting, mediante representación gráfica diferente tipos de gráficos y mapas geo-estadísticos de seguimiento.
--Coordinación como especialista y desarrollador GIS, con el servicio IT de la empresa para el proyecto corporativo.
--SQL, Análisis de datos, Generación de informes, Procesos de Geolocalización. Procesos de control de calidad de los datos y realización de protocolos de mejoras de la calidad de los mismos.
 
