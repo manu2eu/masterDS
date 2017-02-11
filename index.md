@@ -1,9 +1,8 @@
 # Presentación: Proyectos Me2u
 
-- Consultor y Desarrollador BI (Business Intelligence) and Big Data
-- Analista de datos y representación gráfica de la información.
+- Desarrollo BI (Business Intelligence) and Big Data
+- Analisis de datos y representación gráfica de la información.
 - Especialista GIS. (Geographic Information System).
-- Desarrollador Java2EE.
 - Datos para la toma de decisiones.
 
 
@@ -27,11 +26,10 @@ Especializaciones:
 
 2011 . Experto Universitario en (SIG) Sistemas de Información Geográfica. UNIA.
 
-2004 : Título en Arquitectura. ETSA. (Escuela Técnica Superior de Arquitectura, Sevilla).  
 
 ## Proyectos:
 
-Octubre 2015. E-Kit. Freelance. 5 meses
+Octubre 2015. E-Kit. Freelance.
 -Arduino+Sensores.
 -Almacenamiento de los datos.
 -Modelado y geneacion del OLAP, para su posterior explotación.
